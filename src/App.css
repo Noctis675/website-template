@@ -1,0 +1,24 @@
+h2 {
+  padding-left: 25px;
+  color: rgb(255, 255, 255);
+}
+
+a:hover {
+  background-color:rgb(217, 217, 217);
+}
+h2 {
+  color: black;
+}
+
+button:hover{
+  background-color: rgb(150, 132, 132);
+
+}
+ h6 {
+  font-variant: small-caps
+ }
+
+ * {
+  padding: 0;
+  margin: 0;
+ }
